@@ -1,0 +1,8 @@
+date & string
+SELECT CURDATE() AS Current_Date;
+SELECT NOW() AS Current_Date_Time;
+
+SELECT UPPER('shiva') AS result;
+
+SELECT LOWER('SHIVA') AS result;
+SELECT LENGTH('DATA ANALYTICS') AS length;
