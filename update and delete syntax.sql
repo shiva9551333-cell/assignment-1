@@ -3,6 +3,7 @@ CREATE DATABASE E_Commerce;
 USE E_Commerce;
 
 select *from amazon;
+set sql_safe_updates=0
 
 UPDATE Amazon
 SET price = 53000.00,
